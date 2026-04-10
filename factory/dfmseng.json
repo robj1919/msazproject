@@ -1,0 +1,9 @@
+{
+	"name": "dfmseng",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ae6cd38-46b7-4608-9260-9d1fbbfebf37",
+		"tenantId": "0223fd63-dec0-4282-accb-460fb4f20168"
+	}
+}
